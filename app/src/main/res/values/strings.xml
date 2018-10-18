@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">GeoQuiz</string>
-    <string name="question_text">Anime is trash.</string>
+    <string name="question_anime">Anime is trash.</string>
+    <string name="question_drama">Drama is not trash.</string>
+    <string name="question_movie">Movie is the last trash.</string>
+    <string name="question_book">Book is good.</string>
+    <string name="question_music">Some music is good.</string>
     <string name="true_button">True</string>
     <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
 </resources>
